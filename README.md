@@ -1,6 +1,6 @@
 # Hi, I'm Seán Rourke
 
-**Software Engineer Graduate** from [SETU Carlow, Ireland] (https://www.setu.ie)
+**Software Engineer Graduate** from [SETU Carlow, Ireland] (https://www.setu.ie)  
 Skilled in **C++**, **Python**, **TypeScript**, **React**, and **Machine Learning**    
 
 ---
@@ -31,7 +31,7 @@ A program to allow a drone to detect a shape and fly along its outline using **O
 
 ## Technical Skills
 
-**Languages:** JavaScript, TypeScript, React, Python, Java, Html, SQL, PHP, CSS, Go, Assembly Code
+**Languages:** JavaScript, TypeScript, React, Python, Java, Html, SQL, PHP, CSS, Go, Assembly Code  
 **Frameworks:** TensorFlow, Flask  
 **Tools:** Docker, Git  
 **Concepts:** Machine Learning, Algorithms 
