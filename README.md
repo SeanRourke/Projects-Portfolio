@@ -7,7 +7,7 @@ Skilled in **C++**, **Python**, **TypeScript**, **React**, and **Machine Learnin
 
 ## Featured Projects
 
-### [Chess Bot](https://github.com/seanrourke/chess-bot)
+### [Chess Bot](https://github.com/SeanRourke/C00251168-Chess-Bot)
 A competitive chess engine built in C++ using **bitboards**, **alpha–beta pruning**, and a **heuristic evaluation function**.  
 Integrates with **lichess.org** via the Lichess Bot API.
 
